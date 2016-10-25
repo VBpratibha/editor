@@ -1,0 +1,11 @@
+{
+    "name": "root/contents",
+    "authors": [
+        {
+            "name": "pratibha-alw",
+            "email": "pratibha.pandey@anylinuxwork.com"
+        }
+    ],
+     "minimum-stability": "dev",
+    "require": {}
+}
