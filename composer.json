@@ -15,5 +15,5 @@
            "App\\": "app/",
             "LaravelContent\\Contents\\": "packages/laravelContent/contents/src"
            }
-       },
+       }
 }
